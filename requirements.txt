@@ -1,4 +1,4 @@
 streamlit
-sklearn
-pickle
+scikitlearn
+numpy
 matplotlib
